@@ -5,9 +5,10 @@ using namespace std;
 
 int main()
 {
-    int n;
+    string a = "101";
+    string b = "0";
 
-    ci(n);
-    co(n);
+    cout
+        << a + b;
     return 0;
 }
